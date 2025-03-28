@@ -9,6 +9,13 @@ This mini-project is a **Railway Reservation System** built using **Python**.
 - **User-Friendly GUI**: The interface is designed using **Tkinter** for a seamless and intuitive user experience.
 - **Image Display**: Images such as train pictures or logos are displayed using the **PIL** (Pillow) library.
 
+## Technologies Used:
+- **Python 3.x**
+- **Tkinter**: For creating graphical user interface (GUI).
+- **PIL (Pillow)**: For displaying images on the interface.
+- **Random**: For generating random numbers (used in ticket ID generation).
+- **String**: For string manipulation (used in ticket ID creation).
+
 ## 📸 Preview:
 Here are some screenshots from the Railway Reservation System:
 
@@ -47,13 +54,6 @@ Here are some screenshots from the Railway Reservation System:
 
 *FAQ's Section*
 ![Sample Screenshot 9](Preview-images/9.png)
-
-## Technologies Used:
-- **Python 3.x**
-- **Tkinter**: For creating graphical user interface (GUI).
-- **PIL (Pillow)**: For displaying images on the interface.
-- **Random**: For generating random numbers (used in ticket ID generation).
-- **String**: For string manipulation (used in ticket ID creation).
 
 ## Project Requirements:
 Before running this project, ensure you have the following installed:
