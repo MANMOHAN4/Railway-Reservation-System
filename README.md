@@ -27,4 +27,4 @@ Before running this project, ensure you have the following installed:
 2. Ensure Python and the necessary libraries (Tkinter, PIL) are installed.
 3. Run the script:
    ```bash
-   python railway_reservation_system.py
+   python MINI_PROJECT.py
